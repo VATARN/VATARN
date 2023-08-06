@@ -8,8 +8,8 @@
 
 ### 📫 How to reach me: 
 
-! Linkedin https://www.linkedin.com/in/arnavvats7/
-! Email arnavvats.av7@gmail.com, arnav.vats@utexas.edu
+### Linkedin: https://www.linkedin.com/in/arnavvats7/
+### Email: arnavvats.av7@gmail.com, arnav.vats@utexas.edu
 
 ## Tech Stack & Skills
 
