@@ -10,7 +10,7 @@ I'm Arnav Vats, an experienced front-end developer passionate about building use
 
 [Email]: arnavvats.av7@gmail.com, arnav.vats@utexas.edu
 
-[LinkedIn]: linkedin.com/in/arnavvats7/
+[Linkedin]: linkedin.com/in/arnavvats7/
 
 ### Tech Stack & Skills
 
