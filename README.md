@@ -8,9 +8,8 @@ I'm Arnav Vats, an experienced front-end developer passionate about building use
 
 📫 How to reach me: 
 
-[Email]: arnavvats.av7@gmail.com, arnav.vats@utexas.edu
-
-[Linkedin]: linkedin.com/in/arnavvats7/
+[Linkedin] https://www.linkedin.com/in/arnavvats7/
+[Email] arnavvats.av7@gmail.com, arnav.vats@utexas.edu
 
 ### Tech Stack & Skills
 
