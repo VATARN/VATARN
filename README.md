@@ -7,7 +7,9 @@ I'm Arnav Vats, an experienced front-end developer passionate about building use
 👯 I’m looking to collaborate on open-source projects related to Responsive and UI/UX design, Dynamic programming, Data structures, Algorithms, System Design, and full-stack development.
 
 📫 How to reach me: 
+
 [Email]: arnavvats.av7@gmail.com, arnav.vats@utexas.edu
+
 [LinkedIn]: https://www.linkedin.com/in/arnavvats7/
 
 ### Tech Stack & Skills
