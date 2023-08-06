@@ -6,10 +6,10 @@
 
 ### 👯 I’m looking to collaborate on open-source projects related to Responsive and UI/UX design, Dynamic programming, Data structures, Algorithms, System Design, and full-stack development.
 
-###📫 How to reach me: 
+### 📫 How to reach me: 
 
-!Linkedin https://www.linkedin.com/in/arnavvats7/
-!Email arnavvats.av7@gmail.com, arnav.vats@utexas.edu
+! Linkedin https://www.linkedin.com/in/arnavvats7/
+! Email arnavvats.av7@gmail.com, arnav.vats@utexas.edu
 
 ## Tech Stack & Skills
 
