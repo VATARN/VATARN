@@ -1,17 +1,4 @@
  <hr></hr>
-<p align="center">
-  <samp>
-    Hi 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :email:	<br>
-    :art:  <br>
-                Twitter: <br>
-  :briefcase: <br>
-
-  </samp>
-</p>
-
 <div align="center">
 <h1 align="center">
 <br>
