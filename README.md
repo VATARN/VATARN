@@ -12,7 +12,7 @@
 <h4> •	Database | Cloud: MongoDB, MySQL, Snowflake, Datadog, Azure, AWS, GCP, Heroku, Jenkins, Vercel<h4>
 <h4> •	Testing Tools | Libraries: QTest, BDD (Behavior Driven Development), Jest, Enzyme, React Testing Library, JUnit, pytest<h4>
 <h4> •	Dev Tools: Git, GitHub, GitLab, Git Extensions, Source Tree, npm, pip, Visual Studio Code, Eclipse, Spring Tool Suite<h4>
-<h4> •	Project Management: Jira, Rally, Scaled Agile, Scrum<h4>
+<h4> •	Project Tools and Methodology: Jira, Rally, Scaled Agile, Scrum, Kanban<h4>
 <h4> •	Big Data and ML: Hadoop, MapReduce, Kubernetes, Snowflake, Tableau, Scikit learn, Pandas, Numpy<h4>
 </div>
 
