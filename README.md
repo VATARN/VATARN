@@ -24,7 +24,7 @@
 
 ## 📒 Table of Contents
 - [📍 Overview](#overview)
-- [✉️ Contact Us](#contact)
+- [✉️ Contact Me](#contact)
 
 
 <div id="overview"></div>
@@ -42,12 +42,12 @@
 ###        [arnavvats.av7@gmail.com](mailto:arnavvats.av7@gmail.com)
 
 ## Tech Stack & Skills
-•	Languages: C++, JavaScript, Typescript, Python, Java, HTML, CSS, SQL
-•	Frameworks | Libraries: React, Redux, React Native, Bootstrap, Material-UI, jQuery, Node.js, Flask, Spring Boot
-•	Database | Cloud: MongoDB, MySQL, Snowflake, Datadog, Azure, AWS, GCP, Heroku, Jenkins, Vercel
-•	Testing Tools | Libraries: QTest, BDD (Behavior Driven Development), Jest, Enzyme, React Testing Library, JUnit, pytest
-•	Dev Tools: Git, GitHub, GitLab, Git Extensions, Source Tree, npm, pip, Visual Studio Code, Eclipse, Spring Tool Suite
-•	Project Management: Jira, Rally, Scaled Agile, Scrum
-•	Big Data and ML: Hadoop, MapReduce, Kubernetes, Snowflake, Tableau, Scikit learn, Pandas, Numpy
+<h4>•	Languages: C++, JavaScript, Typescript, Python, Java, HTML, CSS, SQL</h4>
+<h4>•	Frameworks | Libraries: React, Redux, React Native, Bootstrap, Material-UI, jQuery, Node.js, Flask, Spring Boot </h4>
+<h4>•	Database | Cloud: MongoDB, MySQL, Snowflake, Datadog, Azure, AWS, GCP, Heroku, Jenkins, Vercel<h4>
+<h4>•	Testing Tools | Libraries: QTest, BDD (Behavior Driven Development), Jest, Enzyme, React Testing Library, JUnit, pytest<h4>
+<h4>•	Dev Tools: Git, GitHub, GitLab, Git Extensions, Source Tree, npm, pip, Visual Studio Code, Eclipse, Spring Tool Suite<h4>
+<h4>•	Project Management: Jira, Rally, Scaled Agile, Scrum<h4>
+<h4>•	Big Data and ML: Hadoop, MapReduce, Kubernetes, Snowflake, Tableau, Scikit learn, Pandas, Numpy<h4>
 
 
