@@ -7,12 +7,15 @@
 <h3>👯 I’m looking to collaborate on open-source projects related to Responsive and UI/UX design, Dynamic programming, Data structures, Algorithms, System Design, and full-stack development.</h3>
   
   ## Tech Stack & Skills
-<h4> •	Languages: C++, JavaScript, Typescript, Python, Java, HTML, CSS, SQL</h4>
-<h4> •	Frameworks | Libraries: React, Redux, React Native, Bootstrap, Material-UI, jQuery, Node.js, Flask, Spring Boot </h4>
-<h4> •	Database | Cloud: MongoDB, MySQL, Snowflake, Datadog, Azure, AWS, GCP, Heroku, Jenkins, Vercel<h4>
-<h4> •	Testing Tools | Libraries: QTest, BDD (Behavior Driven Development), Jest, Enzyme, React Testing Library, JUnit, pytest<h4>
-<h4> •	Dev Tools: Git, GitHub, GitLab, Git Extensions, Source Tree, npm, pip, Visual Studio Code, Eclipse, Spring Tool Suite<h4>
-<h4> •	Project Tools and Methodology: Jira, Rally, Scaled Agile, Scrum, Kanban<h4>
-<h4> •	Big Data and ML: Hadoop, MapReduce, Kubernetes, Snowflake, Tableau, Scikit learn, Pandas, Numpy<h4>
+</h4>•	Languages: C++, JavaScript, Typescript, Python, Java, HTML, CSS, SQL</h4>
+</h4>•	Frameworks: React Native, Bootstrap, Flask, Spring Boot</h4>
+</h4>•	Libraries: React, Redux, Material-UI, jQuery </h4>
+</h4>•	Database: MongoDB, MySQL</h4>
+</h4>•	Testing: React Testing Library, Jest, Enzyme, JUnit, pytest, Cucumber</h4>
+</h4>•	UI/UX tools: Illustrator, Adobe XD, Mockflow, Zeplin</h4>
+</h4>•	Project Skills: Jira, Rally, Scaled Agile, Scrum, Kanban, Qtest, BDD (Behavior Driven Development)</h4>
+</h4>•	Data and ML: Tableau, Spark, Hadoop, MapReduce, Snowflake, Scikit learn, Pandas, NumPy</h4>
+</h4>•	Dev Tools: AWS, GCP, Kubernetes, Heroku, Jenkins, Vercel, Terraform, Docker, Git, GitHub, GitLab, Visual Studio Code, Eclipse, Spring Tool Suite, Webpack, npm, pip</h4>
+
 </div>
 
