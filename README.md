@@ -34,14 +34,14 @@
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Tailwind.png" alt="Tailwind" title="Bootstrap" width="60" height="60"style="margin-right: 20px;"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/SASS.png" alt="SASS" title="SASS" width="60" height="60"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/NodeJS.png" alt="NodeJS" title="NodeJS" width="60" height="60" style="margin-right: 20px;"/>
-  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Flask.png" alt="Flask" title="Flask" width="60" height= "60" style="margin-right: 20px;"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Flask_white.png" alt="Flask" title="Flask" width="60" height= "60" style="margin-right: 20px;"/>
       </td>
     </tr>
     <tr>
       <td style="color: white;"><h3>Database</h3></td>
       <td>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/SQL.png" alt="SQL" title="SQL" width="60" height="60" style="margin-right: 20px;"/>
-<img src="https://github.com/VATARN/VATARN/blob/main/Icons/MongoDB.png" alt="MongoDB_white" title="MongoDB" width="60" height="60" style="margin-right: 20px;"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/MongoDB_white.png" alt="MongoDB" title="MongoDB" width="60" height="60" style="margin-right: 20px;"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/GraphQL.png" alt="GraphQL" title="GraphQL" width="60" height="60" style="margin-right: 20px;"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Neo4j.png" alt="Neo4j" title="Neo4j" width="60" height="60" style="margin-right: 20px;"/>
       </td>
