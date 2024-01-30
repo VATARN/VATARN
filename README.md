@@ -3,22 +3,51 @@
   Hi There, I'm Arnav Vats 👋
 </h1>
 <h3>💻 Front-end developer passionate about building user-friendly and visually stunning web applications. I've been working in the industry since 2021, and during this time, I've developed expertise in a wide range of technologies and frameworks </h3>
-<h3>🌱 I’m currently pursuing a Master's in IT and Management at UT Austin, and I'm always eager to explore, upskill and learn new cutting edge technologies that improve and enhance user experiences and increase value. </h3>
+<h3>🌱 I’m currently pursuing a Master's in IT and Management at UT Austin, and I'm always eager to explore, upskill, and learn new cutting-edge technologies that improve and enhance user experiences and increase value. </h3>
 <h3>👯 I’m looking to collaborate on open-source projects related to Responsive and UI/UX design, Dynamic programming, Data structures, Algorithms, System Design, and full-stack development.</h3>
 
   ## Tech Stack & Skills
-</h4>• Languages: C++, JavaScript, Typescript, Python, Java, HTML, CSS, SQL</h4>
-<br>
-</h4>• Frameworks: React Native, Bootstrap, Flask, Spring Boot</h4><br>
-</h4>• Libraries: React, Redux, Material-UI, jQuery </h4><br>
-</h4>• Database: MongoDB, MySQL</h4><br>
-</h4>• Testing: React Testing Library, Jest, Enzyme, JUnit, pytest, Cucumber</h4><br>
-</h4>• UI/UX tools: Illustrator, Adobe XD, Mockflow, Zeplin</h4><br>
-</h4>• Project Skills: Jira, Rally, Scaled Agile, Scrum, Kanban, Qtest, BDD (Behavior Driven Development)</h4><br>
-</h4>• Data and ML: Tableau, Spark, Hadoop, MapReduce, Snowflake, Scikit learn, Pandas, NumPy</h4><br>
-</h4>• Dev Tools: AWS, GCP, Kubernetes, Heroku, Jenkins, Vercel, Terraform, Docker, Git, GitHub, GitLab, Visual Studio Code, Eclipse, Spring Tool Suite, Webpack, npm, pip</h4>
-
+<div>• Languages: <br>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Javascript_yellow.png" alt="AWS" title="AWS" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Typescript.png" alt="Typescript" title="Typescript" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/HTML.png" alt="HTML" title="HTML" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/CSS.png" alt="CSS" title="CSS" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Python.png" alt="Python" title="Python" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/JAVA.png" alt="Java" title="Java" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/C++.png" alt="C++" title="C++" width="40" height="40"/>
 </div>
-# My Project
-![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social) 
-
+<hr></hr>
+<div>• Libraries | Frameworks: <br>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/React.png" alt="React" title="React" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Redux.png" alt="Redux" title="Redux" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Angular.png" alt="Angular" title="Angular" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Tailwind.png" alt="Tailwind" title="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/SASS.png" alt="SASS" title="SASS" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/NodeJS.png" alt="NodeJS" title="NodeJS" width="40" height="40"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Flask.png" alt="Flask" title="Flask" width="40" height="40"/>
+</div>
+<hr></hr>
+<div>• Database: <br>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/SQL.png" alt="SQL" title="SQL" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/MongoDB.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/GraphQL.png" alt="GraphQL" title="GraphQL" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Neo4j.png" alt="Neo4j" title="Neo4j" width="40" height="40"/>
+</div>
+<hr></hr>
+<div>• UI/UX tools: <br>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/AdobeXD.png" alt="AdobeXD" title="AdobeXD" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Figma.png" alt="Figma" title="Figma" width="40" height="40"/>
+</div>
+<hr></hr>
+<div>• DevOps & Tools: <br>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/AWS.png" alt="AWS" title="AWS" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Heroku.png" alt="Heroku" title="Heroku" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Jenkins.png" alt="Jenkins" title="Jenkins" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Docker.png" alt="Docker" title="Docker" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Git.png" alt="Git" title="Git" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/GitLab.png" alt="GitLab" title="GitLab" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/VSCode.png" alt="VSCode" title="VSCode" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Webpack.png" alt="GitLab" title="GitLab" width="40" height="40"/>
+<hr></hr>
+</div>
