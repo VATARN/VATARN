@@ -19,4 +19,6 @@
 </h4>• Dev Tools: AWS, GCP, Kubernetes, Heroku, Jenkins, Vercel, Terraform, Docker, Git, GitHub, GitLab, Visual Studio Code, Eclipse, Spring Tool Suite, Webpack, npm, pip</h4>
 
 </div>
+# My Project
+![GitHub stars](https://img.shields.io/github/stars/username/repository?style=social) 
 
