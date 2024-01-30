@@ -11,6 +11,6 @@
   <hr style="border-top: 3px solid #bbb;"/>
 
   <h1 style="color: #58a6ff;">Tech Stack</h1>
-  ![Tech Stack](https://github.com/VATARN/VATARN/blob/main/TechStack.png)
+  <img src="https://github.com/VATARN/VATARN/blob/main/TechStack.png" alt="Tech Stack">
 </div>
 
