@@ -11,7 +11,7 @@
   <hr style="border-top: 3px solid #bbb;"/>
 
   <h1 style="color: #58a6ff;">Tech Stack</h1>
-  <table style="background-color: black; width: 100%;">
+  <table style="background-color: black !important; width: 100%;">
     <tr>
       <td style="color: white;"><h3>Languages</h3></td>
       <td style="background-color: black; width: 100%;" >
