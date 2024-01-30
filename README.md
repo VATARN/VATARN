@@ -1,4 +1,5 @@
 <div align="left">
+  <img src="https://github.com/VATARN/VATARN/blob/main/cover.jpeg" alt="cover">
   <h1>
     <span>👋 Hi There,</span>
     <span style="color: #58a6ff; margin-left: 8px; font-weight:bolder;">I'm Arnav Vats</span>
