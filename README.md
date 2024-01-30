@@ -31,7 +31,7 @@
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Redux.png" alt="Redux" title="Redux" width="60" height="60" style="margin-right: 20px;"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Angular.png" alt="Angular" title="Angular" width="60" height="60"style="margin-right: 20px;"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60" height="60"style="margin-right: 20px;"/>
-  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Tailwind.png" alt="Tailwind" title="Bootstrap" width="60" height="60"style="margin-right: 20px;"/>
+  <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Tailwind.png" alt="Tailwind" title="Tailwind" width="60" height="60"style="margin-right: 20px;"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/SASS.png" alt="SASS" title="SASS" width="60" height="60"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/NodeJS.png" alt="NodeJS" title="NodeJS" width="60" height="60" style="margin-right: 20px;"/>
   <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Flask_white.png" alt="Flask" title="Flask" width="60" height= "60" style="margin-right: 20px;"/>
@@ -58,7 +58,7 @@
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Git.png" alt="Git" title="Git" width="60" height="60" style="margin-right: 20px;"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/GitLab.png" alt="GitLab" title="GitLab" width="60" height="60" style="margin-right: 20px;"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/VSCode.png" alt="VSCode" title="VSCode" width="60" height="60" style="margin-right: 20px;"/>
-<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Webpack.png" alt="GitLab" title="GitLab" width="60" height="60" style="margin-right: 20px;"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Webpack.png" alt="Webpack" title="Webpack" width="60" height="60" style="margin-right: 20px;"/>
       </td>
     </tr>
   </table>
