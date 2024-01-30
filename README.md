@@ -1,19 +1,21 @@
 <div align="left">
   <h1>
-    <span>👋 Hi There,</span>
+    <span>👋 Hi There,</span><br>
     <span style="color: #58a6ff; margin-left: 8px;">I'm Arnav Vats</span>
   </h1>
-  <h3>💻 Front-end developer passionate about building user-friendly and visually stunning web applications. I've been working in the industry since 2021, and during this time, I've developed expertise in a wide range of technologies and frameworks </h3>
+  <h3>💻 Software Developer passionate about Front-end development, building user-friendly and scalable web applications. I've been working in the industry since 2021, and during this time, I've developed expertise in a wide range of technologies and frameworks </h3>
+  <br>
   <h3>🌱 I’m currently pursuing a Master's in IT and Management at UT Austin, and I'm always eager to explore, upskill, and learn new cutting-edge technologies that improve and enhance user experiences and increase value. </h3>
+<br>
   <h3>👯 I’m always looking forward to collaborating and discussing the latest technology trends, Responsive and UI/UX design, Dynamic programming, Data structures & Algorithms, System Design, Full-stack, and web development.</h3>
   <hr style="border-top: 3px solid #bbb;"/>
 
-  <h2 style="color: #58a6ff;">Tech Stack & Skills</h2>
+  <h2 style="color: #58a6ff;">Tech Stack</h2>
   <table style="background-color: black; width: 100%;">
     <tr>
       <td style="color: white;">Languages:</td>
       <td>
-        <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Javascript_yellow.png" alt="AWS" title="AWS" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/Javascript_yellow.png" alt="AWS" title="AWS" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Typescript.png" alt="Typescript" title="Typescript" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/HTML.png" alt="HTML" title="HTML" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/CSS.png" alt="CSS" title="CSS" width="40" height="40"/>
@@ -38,7 +40,6 @@
     <tr>
       <td style="color: white;">Database:</td>
       <td>
-        
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/SQL.png" alt="SQL" title="SQL" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/MongoDB.png" alt="MongoDB" title="MongoDB" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/GraphQL.png" alt="GraphQL" title="GraphQL" width="40" height="40"/>
@@ -48,7 +49,7 @@
     <tr>
       <td style="color: white;">UI/UX, DevOps & Tools:</td>
       <td>
-        <img src="https://github.com/VATARN/VATARN/blob/main/Icons/AdobeXD.png" alt="AdobeXD" title="AdobeXD" width="40" height="40"/>
+<img src="https://github.com/VATARN/VATARN/blob/main/Icons/AdobeXD.png" alt="AdobeXD" title="AdobeXD" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Figma.png" alt="Figma" title="Figma" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/AWS.png" alt="AWS" title="AWS" width="40" height="40"/>
 <img src="https://github.com/VATARN/VATARN/blob/main/Icons/Heroku.png" alt="Heroku" title="Heroku" width="40" height="40"/>
