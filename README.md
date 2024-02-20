@@ -2,7 +2,6 @@
   <img src="https://github.com/VATARN/VATARN/blob/main/cover.jpeg" alt="cover">
   <h1>
     <span>👋 Hi There,</span>
-    <span style="color: #58a6ff; margin-left: 8px; font-weight:bolder;">I'm Arnav Vats</span>
   </h1>
   <h3>💻 Software Developer passionate about Front-end development, building user-friendly and scalable web applications. I've been working in the industry since 2021, and during this time, I've developed expertise in a wide range of technologies and frameworks </h3>
   <br>
